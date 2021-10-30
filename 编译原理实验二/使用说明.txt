@@ -1,0 +1,3 @@
+本项目的编程环境为：Qt 5.14.2 
+注意：在Qt Creator打开项目时，项目的路径不能包含中文，可先把XlexGenerator文件夹放到不包含中文的路径下再打开。
+使用步骤：打开Qt Creator，然后打开XlexGenerator文件夹中的XlexGenerator.pro文件，即可运行程序。
